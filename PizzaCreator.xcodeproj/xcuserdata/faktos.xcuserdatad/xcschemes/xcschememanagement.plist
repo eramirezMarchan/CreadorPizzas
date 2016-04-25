@@ -4,15 +4,30 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notification - pizzaCreatorWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>PizzaCreator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>pizzaCreatorWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>60A757741CC3566E00A87034</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>60FE4AA41CCB2DB6003C511A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

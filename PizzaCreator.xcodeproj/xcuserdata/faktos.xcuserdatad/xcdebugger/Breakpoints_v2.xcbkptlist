@@ -19,5 +19,100 @@
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pizzaCreatorWatch Extension/IngredientesController.swift"
+            timestampString = "483317530.55559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "table(_:didSelectRowAtIndex:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pizzaCreatorWatch Extension/IngredientesController.swift"
+            timestampString = "483317624.71717"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "IngredientesController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pizzaCreatorWatch_Extension.IngredientesController.arraySelected.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "pizzaCreatorWatch Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faktos/Documents/Faktos/iOS/iOS/Curso%20iOS%20Tec/Curso%202/PizzaCreator/pizzaCreatorWatch%20Extension/IngredientesController.swift"
+                  timestampString = "483317633.612303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pizzaCreatorWatch_Extension.IngredientesController.arraySelected.materializeForSet : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "pizzaCreatorWatch Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faktos/Documents/Faktos/iOS/iOS/Curso%20iOS%20Tec/Curso%202/PizzaCreator/pizzaCreatorWatch%20Extension/IngredientesController.swift"
+                  timestampString = "483317633.613301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pizzaCreatorWatch_Extension.IngredientesController.init (pizzaCreatorWatch_Extension.IngredientesController.Type)() -&gt; pizzaCreatorWatch_Extension.IngredientesController"
+                  moduleName = "pizzaCreatorWatch Extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faktos/Documents/Faktos/iOS/iOS/Curso%20iOS%20Tec/Curso%202/PizzaCreator/pizzaCreatorWatch%20Extension/IngredientesController.swift"
+                  timestampString = "483317633.613826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1066">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pizzaCreatorWatch Extension/IngredientesController.swift"
+            timestampString = "483317635.703562"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "willActivate()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
